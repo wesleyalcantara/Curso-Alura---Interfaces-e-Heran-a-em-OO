@@ -10,5 +10,6 @@ contaCorrenteRicardo.sacar(100);
 
 const contaPoupanca = new ContaPoupanca(50, cliente1, 1001);
 
+
 console.log(contaPoupanca);
 console.log(contaCorrenteRicardo);
