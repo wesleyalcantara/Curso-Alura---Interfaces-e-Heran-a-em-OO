@@ -10,6 +10,7 @@ export class Cliente{
     }
 
     autenticar(){
-        return false;
+        return true;
     }
+
 }
